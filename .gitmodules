@@ -1,0 +1,3 @@
+[submodule "OCR-Captcha-Cracker"]
+	path = OCR-Captcha-Cracker
+	url = https://github.com/jeff52415/OCR-Captcha-Cracker
